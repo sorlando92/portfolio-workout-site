@@ -1,0 +1,29 @@
+[
+    {
+        "pintKey": 1,
+        "pdtmDate": "1.19.2022",
+        "pstrWODHeader": "Every 2:00 for 32:00",
+        "pstrWODBody": "1) 25/20 cal row\n2) 100' SA DB farmers carry (70/50)\n3) 25/20 cal assault bike\n4) 1:00 high plank",
+        "pstrWODNote": "Treat as a conditioning piece where the row and assault bike are intense intervals while the farmers carry and plank are more active recovery.",
+        "pstrCoachNote": "Straight conditioning piece. Hit it hard or treat as active recovery. Feel free to begin people at different stations. No score on this WOD, just work.",
+        "pstrImgSource": "Workout1.png"
+    },
+    {
+        "pintKey": 2,
+        "pdtmDate": "1.18.2022",
+        "pstrWODHeader": "AMRAP in 12-minutes:",
+        "pstrWODBody": "2 wall-walks\n15 DB box step-ups (50/35 lb., 24/20')",
+        "pstrWODNote": "Aim for 6-10 rounds, top athletes hitting 11+. Pick a DB weight which allows sets to be unbroken. Scale box height if needed.",
+        "pstrCoachNote": "As the open approaches you will see more workouts begin with the Metcon then strength later on. Focus on a thorough warm-up where athletes are ready to perform at the start of a workout.",
+        "pstrImgSource": "Workout2.png"
+    },
+    {
+        "pintKey": 3,
+        "pdtmDate": "1.17.2022",
+        "pstrWODHeader": "4 rounds for time",
+        "pstrWODBody": "100 double unders\n20 SA DB hang cleans (50/35)\n15 hand release push-ups\n10 seated leg raises over DB (L+R=1)\n\nCap = 20:00",
+        "pstrWODNote": "Goal is to practice consistency with double unders while under fatigue. Each round should take 4-6 minutes.",
+        "pstrCoachNote": "This WOD will be a DU battle. Double unders have been in every open ranging from sets of 25 reps to 100. With the 20:00 time cap take time to talk through DUs and how to get them.",
+        "pstrImgSource": "Workout3.png"
+    }
+]
