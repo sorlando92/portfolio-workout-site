@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# My Daily Workouts - Fun personal site project
 
 More often than not, people ask me what my daily workouts look like. This is a fun experiement to post my workotus, allow filtering, and create a standard method to upload workouts via a JSON file.
 
