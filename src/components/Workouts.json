@@ -1,7 +1,7 @@
 [
     {
         "pintKey": 1,
-        "pdtmDate": "1.19.2022",
+        "pdtmDate": "3.9.2022",
         "pstrWODHeader": "Every 2:00 for 32:00",
         "pstrWODBody": "1) 25/20 cal row\n2) 100' SA DB farmers carry (70/50)\n3) 25/20 cal assault bike\n4) 1:00 high plank",
         "pstrWODNote": "Treat as a conditioning piece where the row and assault bike are intense intervals while the farmers carry and plank are more active recovery.",
@@ -10,7 +10,7 @@
     },
     {
         "pintKey": 2,
-        "pdtmDate": "1.18.2022",
+        "pdtmDate": "3.8.2022",
         "pstrWODHeader": "AMRAP in 12-minutes:",
         "pstrWODBody": "2 wall-walks\n15 DB box step-ups (50/35 lb., 24/20')",
         "pstrWODNote": "Aim for 6-10 rounds, top athletes hitting 11+. Pick a DB weight which allows sets to be unbroken. Scale box height if needed.",
@@ -19,11 +19,20 @@
     },
     {
         "pintKey": 3,
-        "pdtmDate": "1.17.2022",
-        "pstrWODHeader": "4 rounds for time",
+        "pdtmDate": "3.7.2022",
+        "pstrWODHeader": "4 rounds for time:",
         "pstrWODBody": "100 double unders\n20 SA DB hang cleans (50/35)\n15 hand release push-ups\n10 seated leg raises over DB (L+R=1)\n\nCap = 20:00",
         "pstrWODNote": "Goal is to practice consistency with double unders while under fatigue. Each round should take 4-6 minutes.",
         "pstrCoachNote": "This WOD will be a DU battle. Double unders have been in every open ranging from sets of 25 reps to 100. With the 20:00 time cap take time to talk through DUs and how to get them.",
         "pstrImgSource": "Workout3.png"
+    },
+    {
+        "pintKey": 3,
+        "pdtmDate": "3.6.2022",
+        "pstrWODHeader": "5 sets of:",
+        "pstrWODBody": "400 m run\n Work = Rest",
+        "pstrWODNote": "Aim to keep all splits within 5-seconds of your mile pace.",
+        "pstrCoachNote": "Athletes will want to come out hot on this workout. Remind them the goal is to learn pacing and aim for concistency.",
+        "pstrImgSource": "Workout1.png"
     }
 ]

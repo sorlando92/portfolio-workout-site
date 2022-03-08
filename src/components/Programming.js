@@ -37,20 +37,21 @@ function Programming() {
     }))
   }, [search])
 
-
-
-
   return (
     <div className="programming">
       <Header />
-      <div className="search">
-        <input
-          placeholder="Search exercises, movements, style.."
-          value={search}
-          onChange={(e) => { newSearch(e.target.value) }}
-        />
+      <div className="container">
+        <div className="search row col-lg-10">
+          <input
+            placeholder="Filter exercises, movements, style.."
+            value={search}
+            onChange={(e) => { newSearch(e.target.value) }}
+          />
+        </div>
+        <div className="row col-lg-10 d-flex justify-content-center">
+          {wod}
+        </div>
       </div>
-      {wod}
     </div>
   );
 }
